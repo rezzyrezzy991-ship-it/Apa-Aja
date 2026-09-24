@@ -1,0 +1,2 @@
+curl -o installer https://files.soluslabs.com/solusvmphp7/install/installer && chmod +x installer
+./installer -license-key SVM2TL43fbd66a72455cd2a3cd3dbc9409f35360b5303e12c7a67b09
